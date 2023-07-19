@@ -1,0 +1,8 @@
+URI: /booking
+HTTP METHOD: POST
+RequestBody: {
+  "fromDate": "2023-07-25",
+  "toDate": "2023-07-30",
+  "aadharNumber": "1234-5678-9012",
+  "numOfRooms": 2
+}
